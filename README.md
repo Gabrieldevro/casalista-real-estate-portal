@@ -17,7 +17,7 @@
 | **Client** | Client privat |
 | **An** | 2026 |
 | **Domeniu** | Backend Development · Frontend Development · Aplicații Web Personalizate |
-| **Status** | Live — [casalista.ro](https://casalista.ro) |
+| **Status** | Live — [casalista.gabrieldev.eu](https://casalista.gabrieldev.eu) |
 | **Studiu de caz** | [gabrieldev.eu](https://gabrieldev.eu/portofoliu/casalista-portal-locuinte-noi-bucuresti-ilfov) |
 
 ---
